@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, moi c'est Aurélie !
 
-<!--
-**aurelieichelmann/aurelieichelmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Développeuse Web Full Stack en formation
 
-Here are some ideas to get you started:
+Bienvenue sur mon GitHub ! ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actuellement en formation **Développeuse Web Full Stack à Ada Tech School**, je développe mes compétences en conception et développement d'applications web.
+
+Issue d'un parcours en recrutement, relation client et gestion administrative, j'aime allier **créativité, organisation et résolution de problèmes**.
+
+🎯 Mon objectif : évoluer vers le développement web et la gestion de projets digitaux.
+
+### 🌱 Ce que j'apprends
+
+- 🌐 Développement web front-end et back-end
+- ⚡ JavaScript et programmation
+- 🔌 HTTP et API
+- 🛠️ Git et GitHub
+- 🧩 Débogage et résolution de problèmes
+
+### 🚀 Mes projets
+
+Je construis progressivement mon univers de développeuse. Cette section évoluera au fil de mes apprentissages et de mes projets personnels.
+
+### 🤝 Me retrouver ailleurs
+
+- 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/aurelieichelmann/)
+
+---
+
+✨ *Chaque ligne de code est une nouvelle occasion d'apprendre.*
